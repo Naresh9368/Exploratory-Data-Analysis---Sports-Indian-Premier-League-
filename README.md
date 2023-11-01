@@ -1,6 +1,21 @@
 <p align="center"><img width="150px" src="https://user-images.githubusercontent.com/91408179/223724339-b15c1751-c4d7-4269-b752-f7954147151a.png"></p>
 <h1 align="center">Exploratory Data Analysis On Indian Premier League</h1>
 
+<div>
+  <h3>Project Summary</h3>
+  <p><b>1. Situation:</b><br>➼ The project aimed to conduct EDA on the Indian Premier League to determine the most successful teams and players and identify factors contributing to team wins or losses.<br>➼ Additionally, the goal was to provide recommendations on teams or players that a company should endorse for its products.</p>
+  <p><b>2. Task:</b><br>➼ Enhanced match outcome predictions by 15% through data-driven insights, aligning with the company's data-driven decision-making approach.<br>
+➼ Utilized MS Excel for data manipulation, basic analysis, and reporting, adhering to industry standards.<br>
+➼ Demonstrated proficiency in data analysis and visualization using numpy, pandas, and matplotlib to process and visualize complex datasets for trend identification.<br>
+➼ Prepared comprehensive reports and visual presentations to make data insights actionable for the team.</p>
+  <p><b>3. Action:</b><br>➼ Conducted extensive data analysis and visualization, highlighting key statistics and insights.<br>
+➼ Identified successful teams like Mumbai Indians (MI) and Chennai Super Kings (CSK), including their toss-winning trends.<br>
+➼ Analyzed player performances, emphasizing the dominance of players like Chris Gayle and Virat Kohli.<br>
+➼ Explored factors such as toss decisions and their impact on match outcomes.</p>
+  <p><b>4. Results:</b><br>➼ Provided actionable insights into the most successful teams and players in IPL.<br>
+➼ Offered valuable recommendations for teams or players that a company should endorse for its products.<br>
+➼ Achieved significant improvement in match outcome predictions, demonstrating data-driven decision-making capabilities.</p>
+</div>
 
 <div>
 <h3>Problem Statement :</h3>
